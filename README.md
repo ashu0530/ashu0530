@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashu0530" alt="ashu0530" /></a> </p>
 
-<img align="right" alt="Coding" width="350" src="https://www.alisonparry.com/Graphics/boy_typing.gif">
+<img align="right" alt="Coding" width="350" src="https://github.com/ashu0530/ashu0530/blob/main/boy_typing.gif">
 
 - 🌱 I’m currently learning **C++, Data-Structure**
 
