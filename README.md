@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://github.com/ashu0530/ashu0530/blob/main/boy_typing.gif">
 
-- 🌱 I’m currently learning **C++, Data-Structure**
+- 🌱 I’m currently learning **Data-Structure**
 
 - 💬 Ask me about **Linux, Cloud, DevOps Tools**
 
