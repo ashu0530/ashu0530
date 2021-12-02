@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Pandey</h1>
-<h3 align="center">A CSE Graduate who exploring the Technologies :computer:	 as well as Stars :milky_way: :ringed_planet:	:stars:	</h3>
+<h3 align="center">A CSE Graduate who exploring the Technologies :computer:	 and Stars :milky_way: :ringed_planet:	:stars:	</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashu0530&label=Profile%20views&color=0e75b6&style=flat" alt="ashu0530" /> </p>
 
