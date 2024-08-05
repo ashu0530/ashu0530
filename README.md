@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Pandey</h1>
-<h3 align="center">A SRE Engineer Adventure in DevOps Wonderland :computer:	 🔮	</h3>
+<h3 align="center">A DevOps Engineer Journey Through Tech Wonderland :computer:	 🔮	</h3>
 <h3 align="center">A Guy who Passionate Astronomy Buff 	 :milky_way: :ringed_planet:	:stars:	</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashu0530&label=Profile%20views&color=0e75b6&style=flat" alt="ashu0530" /> </p>
